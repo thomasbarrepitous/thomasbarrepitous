@@ -10,10 +10,3 @@
   <li>🚀 Languages: Go, Python</li>
   <li>🛠 Tools: Django, Dash</li>
 </ul>
-
-<h4>🌐 Connect with Me</h4>
-<ul>
-  <li>Let's connect on <a href="https://www.linkedin.com/in/thomas-barre-pitous/">LinkedIn</a></li>
-  <li>I never post on <a href="https://twitter.com/thomasbpitous/">Twitter</a></li>
-</ul>
-
