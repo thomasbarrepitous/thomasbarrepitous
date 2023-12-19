@@ -1,9 +1,13 @@
 <h3>👋 Bonjour, je suis Thomas Barré-Pitous !</h3>
-<h4>🚀 About Me</h4>
+<h4>I build things</h4>
 <ul>
-  <li>💻 Passionate software engineer that generates READMEs using AI.</li>
-  <li>🧗‍♂️ Climbing enthusiast.</li>
-  <li>📊 Sports analytics.</li>
+  <li>💻 I code.</li>
+  <li>🧗‍♂️ I climb.</li>
+  <li>🥘 I eat.</li>
+  <li>I never take vacations</li>
+  <li>I never get sick.</li>
+  <li>And I don't celebrate any major holidays.</li>
+  <li>(📊 also i like sports analytics.)</li>
 </ul>
 <h4>🔧 Tech Playground</h4>
 <ul>
