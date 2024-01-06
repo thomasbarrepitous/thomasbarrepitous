@@ -11,6 +11,6 @@
 </ul>
 <h4>🔧 Tech Playground</h4>
 <ul>
-  <li>🚀 Languages: Go, Python</li>
+  <li>🚀 Languages: TypeScript, Go, Python</li>
   <li>🛠 Tools: Django, Dash</li>
 </ul>
