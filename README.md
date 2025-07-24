@@ -1,16 +1,12 @@
 <h3>👋 Bonjour, je suis Thomas Barré-Pitous !</h3>
-<h4>I build things</h4>
+<p>I build things and market stuff — Currently Account Manager @42</p>
 <ul>
-  <li>💻 I code.</li>
-  <li>🧗‍♂️ I climb.</li>
-  <li>🥘 I eat.</li>
-  <li>I never take vacations</li>
-  <li>I never get sick.</li>
-  <li>And I don't celebrate any major holidays.</li>
-  <li>(📊 also i like sports analytics.)</li>
+  <li>💻 Full-Stack web apps and UI components.</li>
+  <li>⚙️ Custom tooling, dotfiles, and dev environments I enjoy using.</li>
+  <li>📊 Dashboards and data work, especially rugby & football statistics / ML.</li>
 </ul>
-<h4>🔧 Tech Playground</h4>
-<ul>
-  <li>🚀 Languages: TypeScript, Go, Python</li>
-  <li>🛠 Tools: Svelte, Django, Dash</li>
-</ul>
+
+<p>I mostly build for myself — and ship what I’d want to use.</p>
+> thomasbp.me — [LinkedIn](https://www.linkedin.com/in/thomas-barre-pitous)
+
+
