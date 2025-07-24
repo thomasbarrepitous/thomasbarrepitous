@@ -7,6 +7,9 @@
 </ul>
 
 <p>I mostly build for myself — and ship what I’d want to use.</p>
-> thomasbp.me — [LinkedIn](https://www.linkedin.com/in/thomas-barre-pitous)
+<p>
+  <a href="https://thomasbp.me">thomasbp.me</a> · 
+  <a href="https://www.linkedin.com/in/thomas-barre-pitous">LinkedIn</a>
+</p>
 
 
